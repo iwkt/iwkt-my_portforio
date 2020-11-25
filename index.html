@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+  <html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css">
+    <link rel="stylesheet" href="./assets/css/reset_style.css">
+    <link href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/animate.min.css">
+    <link href="./assets/slick/slick-theme.css" rel="stylesheet" type="text/css">
+    <link href="./assets/slick/slick.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://sdk.form.run/js/v2/formrun.js"></script>
+    <!-- <script src="./assets/jQuery/jquery.min.js"></script> -->
+    <script src="./assets/slick/slick.min.js"></script>
+  </head>
+  <body>
+    <div id="Head"></div>
+    <!-- PC & mobile を含めた全体のcontainer -->
+    <div id="grobal_container">
+      <div class="shutter"></div>
+      <div class=main__container>
+        <div class="content"></div>
+        <header class="header">
+          <div class="header__pc header__container">
+            <!-- ロゴarea -->
+            <div class="header__logo__area">
+              <a class="header__logo" 　href="#Logo"><img src="./assets/images/iwk_logo_b.svg" alt=""></a>
+            </div>
+            <!-- ナビゲーションarea -->
+            <nav class="header__nav">
+              <div class="header__nav__body">
+                <ul class="header__nav__ul">
+                  <li>
+                    <a class="btn cubic" href="#About">
+                      <span class="hovering">わたし</span>
+                      <span class="default">about</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a class="btn cubic" href="#Service">
+                      <span class="hovering">サービス</span>
+                      <span class="default">service</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a class="btn cubic" href="#Works">
+                      <span class="hovering">お仕事</span>
+                      <span class="default">works</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a class="btn cubic" href="#Skill">
+                      <span class="hovering">スキル</span>
+                      <span class="default">skill</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a class="btn cubic" href="#Contact">
+                      <span class="hovering">ご連絡</span>
+                      <span class="default">contact</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </nav>
+          </div>
+          <!-- hamburger menu ここから-->
+          <div class="mbl__nav">
+            <a id="navOpen" class="nav_open">
+              <div></div>
+              <div></div>
+              <div></div>
+            </a>
+          </div>
+          <!-- hamburger menu ここまで-->
+        </header>
+        <div class="hero__container mb-md">
+          <div class="hero"></div>
+            <div class="top__ttl">
+              <h2 class="animate__animated animate__flipInX animate__slower animate__delay-3s">Takahiro Iwaki</h2>
+            </div>
+        </div>
+        <section class="about section">
+          <div  id="About" class="container ">
+            <h2 class="about__ttl section__ttl"><span>about.</span></h2>
+            <div class="section__img">
+              <img src="./assets/images/human.svg" alt="">
+            </div>
+          </div>
+          <div class="about__outer slide_in up grid-center">
+            <div class="about__inner col-11 grid">
+              <div class="about__me col-6_xs-12">
+                <img src="./assets/images/about_me.svg" alt="">
+              </div>
+              <div class="about__text col-6-middle_xs-12-center slide_in slider_right">
+                <p class="section__text mb-sm">岩城 隆宏 (いわき たかひろ) <br>
+                新潟県出身。<br>
+                臨床工学技士(国家資格）を取得し大学病院で勤務しながら東京でweb制作。</p>
+                <p class="section__text">経歴</p>
+                <ul class="about__ul section__text">
+                  <li class="about__li">データベースソフトFileMakerで臨床業務を効率的に行う様々なソフトを開発。</li>
+                  <li class="about__li">2010年にコンテスト「FileMaker選手権」で自身が開発した機器管理ソフトで銅賞。</li>
+                  <li class="about__li">2020年1月からデザインの独学を始める。</li>
+                  <li class="about__li">              2020年4月からプロクリエータに入門し本格的にweb学習を開始。</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="Service" class="service section slide_in up">
+          <div class="container">
+            <h2 class="section__ttl"><span>services.</span></h2>
+            <div class="service__outer section__outer grid-center bgc_black">
+              <div class="service__inner col-10 grid">
+                <ul class="service__ul col-4_xs-12">
+                  <li><h3 class="service__ttl">ランディングページ制作</h3></li>
+                  <li class="service__icon section__img">
+                    <img src="./assets/images/mobile_icon.svg" alt="">
+                  </li>
+                  <li class="service__text">
+                    <p class="section__text">お客様の要望を丁寧にヒヤリングし、ご希望に沿ったランディングページを制作いたします。多くを占めるmobileからのアクセス用のレスポンシブデザインにも対応いたします。また、SEO対策も万全です。</p>
+                  </li>
+                </ul>
+                <ul class="service__ul col-4_xs-12">
+                  <li><h3 class="service__ttl">コーディング</h3></li>
+                  <li class="service__icon section__img">
+                    <img src="./assets/images/keybord_icon.svg" alt="">
+                  </li>
+                  <li class="service__text">
+                    <p class="section__text">お預かりしたXD・Photoshopなどのデザインデータをもとに、スマートフォンサイト、ワードプレスを使用した更新性の高いサイト、Javascriptを使用した動きのあるサイトなど、様々なサイトのコーディングを行っております。</p>
+                  </li>
+                </ul>
+                <ul class="service__ul col-4_xs-12">
+                  <li><h3 class="service__ttl">Word Press</h3></li>
+                  <li class="service__icon section__img">
+                    <img src="./assets/images/wordpress.svg" alt="">
+                  </li>
+                  <li class="service__text">
+                    <p class="section__text">お預かりしたXD・Photoshopなどのデザインデータをもとに、CMS（WordPress）を利用したサイトの構築をいたします。デザイン制作込みでの受注も可能です（テンプレートテーマ）。</p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- <button id="Scroll">
+          <a id="topBtn" class="scroll_btn js-fadein" href="#Head">
+            <img src="./assets/images/ap_arrow.svg" alt="arrow">
+          </a>   
+        </button> -->
+        <section id="Works" class="works section slide_in up">
+          <div class="container">
+            <h2 class="section__ttl"><span>works.</span></h2>
+          </div>
+        </section>
+        <section id="Skill" class="section skill slide_in up">
+          <div class="container">
+            <h2 class="section__ttl slide_in"><span>skill.</span></h2>
+            <div class="skill__outer section__outer grid-center bgc_black">
+              <div class="section__inner col-8 grid">
+                <ul class="skill__ul col-3_xs-6">
+                  <li class="section__icon section__img">
+                    <img src="./assets/images/html5.svg" alt="">
+                  </li>
+                  <li>
+                    <h3 class="section__ttl">html</h3>
+                  </li>
+                </ul>
+                <ul class="skill__ul col-3_xs-6">
+                  <li class="section__icon section__img">
+                    <img src="./assets/images/css-3.svg" alt="">
+                  </li>
+                  <li>
+                    <h3 class="section__ttl">css</h3>
+                  </li>
+                </ul>
+                <ul class="skill__ul col-3_xs-6">
+                  <li class="section__icon section__img">
+                    <img src="./assets/images/js.svg" alt="">
+                  </li>
+                  <li>
+                    <h3 class="section__ttl">js</h3>
+                  </li>
+                </ul>             
+                <ul class="skill__ul col-3_xs-6">
+                  <li class="section__icon section__img">
+                    <img src="./assets/images/wp.svg" alt="">
+                  </li>
+                  <li>
+                    <h3 class="section__ttl">WordPress</h3>
+                  </li>
+                </ul>             
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="Contact" class="section contact  slide_in up">
+          <div class="container">
+            <h2 class="section__ttl"><span>contact.</span></h2>
+          <div>
+          <script src="https://sdk.form.run/js/v2/embed.js"></script>
+          <div class="formrun-embed" data-formrun-form="@iwktak-1589804710" data-formrun-redirect="true">
+          </div>
+
+        </section>
+        <a href="#Head" class="topBtn" id="topBtn">
+          <img src="./assets/images/ap_arrow.svg" alt="arrow">
+        </a>
+          <!-- <button id="Scroll">
+            <a id="topBtn" class="scroll_btn js-fadein" href="#Head">
+              <img src="./assets/images/ap_arrow.svg" alt="arrow">
+            </a>
+          </button> -->
+        <footer id="Footer" class="footer container">          
+          <div class="footer__copy">
+            <p>Copyright © Takahiro Iwaki. All rights reserved.</p>
+          </div>
+        </footer>
+      </div>
+
+      <div id="Mobile_container" class="mbl__container">
+        <!-- <nav class="mbl__hdr grid-spaceBetween"> -->
+        <div id="MBL_menu" class="mbl__menu">
+          <ul class="mbl__menu__ul">
+            <li class="mbl__menu__li acd__parent__ttl"><a class="mbl_menu" href="#About">わたしについて<p>ABOUT me</p></a></li>
+            <li class="mbl__menu__li acd__parent__ttl"><a class="mbl_menu" href="#Service">サービス<p>SERVICES</p></a>
+            </li>
+            <li class="mbl__menu__li acd__parent__ttl"><a class="mbl_menu" href="#Works">仕事・実績<p>WOERKS</p></a></li>
+            <li class="mbl__menu__li acd__parent__ttl"><a class="mbl_menu" href="#Skill">スキル<p>SKILL</p></a></li>
+            <li class="mbl__menu__li acd__parent__ttl"><a class="mbl_menu" href="#Contact">ご連絡<p>CONTACT</p></a>
+            </li>
+        </div>
+      
+      
+      </div>
+    </div>   
+    <!-- <script src="./assets/js/lib/scroll.js"></script> -->
+    <!-- <script src="./assets/js/main1.js"></script> -->
+
+    <script src="./assets/js/hmgr.js"></script>
+    <script src="./assets/js/toggle.js"></script>
+    <script src="./assets/js/fadeIn.js"></script>
+    <script src="./assets/js/scroll_my.js"></script>
+    <script src="./assets/js/jq/smooth_scrl.js"></script>
+    <!-- <script src="./assets/js/main.js"></script> -->
+  </body>
+</html>

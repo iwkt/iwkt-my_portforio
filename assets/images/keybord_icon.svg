@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="285" height="285" viewBox="0 0 285 285">
+  <defs>
+    <filter id="楕円形_3" x="0" y="0" width="285" height="285" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#dcf6fb"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="168" height="24" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="141" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_83" data-name="グループ 83" transform="translate(-299 -2208)">
+    <g transform="matrix(1, 0, 0, 1, 299, 2208)" filter="url(#楕円形_3)">
+      <g id="楕円形_3-2" data-name="楕円形 3" transform="translate(9 6)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="133.5" cy="133.5" r="133.5" stroke="none"/>
+        <circle cx="133.5" cy="133.5" r="133" fill="none"/>
+      </g>
+    </g>
+    <g id="グループ_82" data-name="グループ 82" transform="translate(-41 -8)">
+      <g id="長方形_24" data-name="長方形 24" transform="translate(587.815 2285.5) rotate(90)" fill="#3d3d41" stroke="#707070" stroke-width="1">
+        <rect width="139.828" height="210.315" rx="15" stroke="none"/>
+        <rect x="0.5" y="0.5" width="138.828" height="209.315" rx="14.5" fill="none"/>
+      </g>
+      <g id="リピートグリッド_1" data-name="リピートグリッド 1" transform="translate(399 2309)" clip-path="url(#clip-path)">
+        <g transform="translate(-399 -2309)">
+          <rect id="長方形_26" data-name="長方形 26" width="24" height="24" transform="translate(399 2309)" fill="#fff"/>
+        </g>
+        <g transform="translate(-363 -2309)">
+          <rect id="長方形_26-2" data-name="長方形 26" width="24" height="24" transform="translate(399 2309)" fill="#fff"/>
+        </g>
+        <g transform="translate(-327 -2309)">
+          <rect id="長方形_26-3" data-name="長方形 26" width="24" height="24" transform="translate(399 2309)" fill="#fff"/>
+        </g>
+        <g transform="translate(-291 -2309)">
+          <rect id="長方形_26-4" data-name="長方形 26" width="24" height="24" transform="translate(399 2309)" fill="#fff"/>
+        </g>
+        <g transform="translate(-255 -2309)">
+          <rect id="長方形_26-5" data-name="長方形 26" width="24" height="24" transform="translate(399 2309)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="リピートグリッド_2" data-name="リピートグリッド 2" transform="translate(416 2343)" clip-path="url(#clip-path-2)">
+        <g transform="translate(-399 -2309)">
+          <rect id="長方形_26-6" data-name="長方形 26" width="24" height="24" transform="translate(399 2309)" fill="#fff"/>
+        </g>
+        <g transform="translate(-363 -2309)">
+          <rect id="長方形_26-7" data-name="長方形 26" width="24" height="24" transform="translate(399 2309)" fill="#fff"/>
+        </g>
+        <g transform="translate(-327 -2309)">
+          <rect id="長方形_26-8" data-name="長方形 26" width="24" height="24" transform="translate(399 2309)" fill="#fff"/>
+        </g>
+        <g transform="translate(-291 -2309)">
+          <rect id="長方形_26-9" data-name="長方形 26" width="24" height="24" transform="translate(399 2309)" fill="#fff"/>
+        </g>
+      </g>
+      <rect id="長方形_27" data-name="長方形 27" width="24" height="24" transform="translate(540 2377)" fill="#fff"/>
+      <rect id="長方形_29" data-name="長方形 29" width="24" height="24" transform="translate(399 2377)" fill="#fff"/>
+      <rect id="長方形_28" data-name="長方形 28" width="93" height="24" transform="translate(435 2377)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

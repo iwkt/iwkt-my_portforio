@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_22" data-name="長方形 22" width="88" height="88" transform="translate(621 2978)" fill="#adebff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="マスクグループ_5" data-name="マスクグループ 5" transform="translate(-621 -2978)" clip-path="url(#clip-path)">
+    <g id="wordpress" transform="translate(621 2978)">
+      <path id="パス_79" data-name="パス 79" d="M26.4,27.158h-4.86L34.786,64.609l7.417-21.2L36.453,27.158H31.326V23.59H54.031v3.569H48.714L61.963,64.609,66.725,51c6.247-17.436-5.12-22.868-5.12-26.759A7.046,7.046,0,0,1,68.65,17.2c.211,0,.415.011.615.03A36.815,36.815,0,0,0,13.357,23.59H26.4v3.569Z" fill="#adebff"/>
+      <path id="パス_80" data-name="パス 80" d="M7.184,44A36.808,36.808,0,0,0,26.74,76.524L10.126,29.56A36.7,36.7,0,0,0,7.184,44Z" fill="#adebff"/>
+      <path id="パス_81" data-name="パス 81" d="M76.04,25.858A26.024,26.024,0,0,1,75.6,35.943h.146l-.557,1.591h0a34.3,34.3,0,0,1-1.217,3.478L61.3,76.5A36.833,36.833,0,0,0,76.04,25.858Z" fill="#adebff"/>
+      <path id="パス_82" data-name="パス 82" d="M32.646,79.028a36.988,36.988,0,0,0,22.213.158L44.089,48.745Z" fill="#adebff"/>
+      <path id="パス_83" data-name="パス 83" d="M75.113,12.887A44,44,0,0,0,12.887,75.113,44,44,0,1,0,75.113,12.887ZM44,84.9A40.9,40.9,0,1,1,84.9,44,40.942,40.942,0,0,1,44,84.9Z" fill="#adebff"/>
+    </g>
+  </g>
+</svg>

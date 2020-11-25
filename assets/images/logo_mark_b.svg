@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60.052" height="71.36" viewBox="0 0 60.052 71.36">
+  <g id="グループ_42" data-name="グループ 42" transform="translate(-4.525 160.193)">
+    <path id="パス_45" data-name="パス 45" d="M5.025-89.333H64.077v-70.36H5.025Z" transform="translate(0)" stroke="#000" stroke-miterlimit="10" stroke-width="1" fill-rule="evenodd"/>
+    <path id="パス_46" data-name="パス 46" d="M32.6-113.794,17.3-85.663l-5.654-28.131Z" transform="translate(-3.61 -25.019)" fill="#fff"/>
+    <path id="パス_47" data-name="パス 47" d="M80.095-69.919l8.08-14.991,13.009,14.991Z" transform="translate(-40.92 -40.764)" fill="#fff"/>
+    <path id="パス_48" data-name="パス 48" d="M59.683-121.474H46.351L28.853-89.85H42.185Z" transform="translate(-12.989 -20.833)" fill="#fff"/>
+    <path id="パス_49" data-name="パス 49" d="M78.255-85.663H63.849l15.438-28.131H93.693Z" transform="translate(-32.065 -25.019)" fill="#fff"/>
+    <path id="パス_50" data-name="パス 50" d="M85.164-149.136c-8.815,4.342-3.622,5.225-5.969,10.368a9.392,9.392,0,0,1-11.381,2.692c-3.724-1.917-4.479-6.144-2.115-9.64C69.169-150.112,76.449-151.022,85.164-149.136Z" transform="translate(-32.336 -5.248)" fill="#00e1ff" fill-rule="evenodd"/>
+    <path id="パス_51" data-name="パス 51" d="M83.331-153.063c-9.553-2.068-17.475-.747-21.278,4.071l-.079.108c-3.016,4.46-1.962,9.831,2.789,12.277a11.277,11.277,0,0,0,13.669-3.217l.119-.158.082-.18a8.719,8.719,0,0,0,.817-4.574,4.993,4.993,0,0,1-.053-1.808,2.28,2.28,0,0,1,.813-.993,18.443,18.443,0,0,1,3.54-2.116Zm-.385,1.779c-8.815,4.342-3.622,5.225-5.969,10.368A9.392,9.392,0,0,1,65.6-138.225c-3.724-1.917-4.479-6.144-2.115-9.64C66.951-152.26,74.232-153.171,82.947-151.285Z" transform="translate(-30.119 -3.1)" fill-rule="evenodd"/>
+    <g id="グループ_40" data-name="グループ 40" transform="translate(11.037 -96.244)">
+      <g id="グループ" transform="translate(0 0)">
+        <text id="CODING" transform="translate(1 4)" fill="#fff" font-size="5" font-family="KozGoPro-Regular, Kozuka Gothic Pro"><tspan x="0" y="0">CODING</tspan></text>
+        <text id="_" data-name="&amp;" transform="translate(23.169 4)" fill="#fff" font-size="5" font-family="KozGoPro-Regular, Kozuka Gothic Pro"><tspan x="0" y="0">&amp;</tspan></text>
+        <text id="DESIGN" transform="translate(29.799 4)" fill="#fff" font-size="5" font-family="KozGoPro-Regular, Kozuka Gothic Pro"><tspan x="0" y="0">DESIGN</tspan></text>
+      </g>
+    </g>
+    <g id="グループ_41" data-name="グループ 41" transform="translate(11.56 -113.017)">
+      <text id="IWAKI" transform="translate(0 15)" fill="#6ec4ca" font-size="14" font-family="Arial-Black, Arial Black" font-weight="800"><tspan x="0" y="0">IWAKI</tspan></text>
+    </g>
+  </g>
+</svg>

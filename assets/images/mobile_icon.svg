@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="240" viewBox="0 0 240 240">
+  <defs>
+    <filter id="楕円形_2" x="0" y="0" width="240" height="240" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#dcf6fb"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_82" data-name="グループ 82" transform="translate(-424 -2534)">
+    <g transform="matrix(1, 0, 0, 1, 424, 2534)" filter="url(#楕円形_2)">
+      <g id="楕円形_2-2" data-name="楕円形 2" transform="translate(9 6)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="111" cy="111" r="111" stroke="none"/>
+        <circle cx="111" cy="111" r="110.5" fill="none"/>
+      </g>
+    </g>
+    <g id="グループ_81" data-name="グループ 81" transform="translate(-321 154)">
+      <g id="長方形_24" data-name="長方形 24" transform="translate(810 2409)" fill="#3d3d41" stroke="#707070" stroke-width="1">
+        <rect width="110" height="177" rx="15" stroke="none"/>
+        <rect x="0.5" y="0.5" width="109" height="176" rx="14.5" fill="none"/>
+      </g>
+      <g id="長方形_25" data-name="長方形 25" transform="translate(826 2425)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="78" height="117" stroke="none"/>
+        <rect x="0.5" y="0.5" width="77" height="116" fill="none"/>
+      </g>
+      <g id="楕円形_1" data-name="楕円形 1" transform="translate(852 2551)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="13" cy="13" r="13" stroke="none"/>
+        <circle cx="13" cy="13" r="12.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

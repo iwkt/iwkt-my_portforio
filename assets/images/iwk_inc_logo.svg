@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="232.425" height="65.033" viewBox="0 0 232.425 65.033">
+  <defs>
+    <linearGradient id="linear-gradient" x1="2.168" y1="-0.307" x2="2.34" y2="-0.307" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.1" stop-color="#070707"/>
+      <stop offset="0.2" stop-color="#0f0f0f"/>
+      <stop offset="0.3" stop-color="#161616"/>
+      <stop offset="0.4" stop-color="#1e1e1e"/>
+      <stop offset="0.5" stop-color="#262626"/>
+      <stop offset="0.6" stop-color="#2d2d2d"/>
+      <stop offset="0.7" stop-color="#353535"/>
+      <stop offset="0.8" stop-color="#3d3d3d"/>
+      <stop offset="0.9" stop-color="#444"/>
+      <stop offset="1" stop-color="#4c4c4c"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="パス_32" data-name="パス 32" d="M262.755-34.633a2.593,2.593,0,0,1,.2-1.011,2.569,2.569,0,0,1,.556-.834,2.569,2.569,0,0,1,.834-.556,2.593,2.593,0,0,1,1.012-.2,2.593,2.593,0,0,1,1.011.2,2.568,2.568,0,0,1,.834.556,2.569,2.569,0,0,1,.556.834,2.593,2.593,0,0,1,.2,1.011,2.593,2.593,0,0,1-.2,1.011,2.569,2.569,0,0,1-.556.834,2.568,2.568,0,0,1-.834.556,2.593,2.593,0,0,1-1.011.2,2.593,2.593,0,0,1-1.012-.2,2.569,2.569,0,0,1-.834-.556,2.569,2.569,0,0,1-.556-.834A2.593,2.593,0,0,1,262.755-34.633Z" transform="translate(-262.755 37.234)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="パス_34" data-name="パス 34" d="M277.155-48.557v11.4h-4.024v-11.4Zm-4.29-4.379a2.189,2.189,0,0,1,.178-.878,2.306,2.306,0,0,1,.489-.722,2.306,2.306,0,0,1,.723-.489,2.188,2.188,0,0,1,.878-.178,2.188,2.188,0,0,1,.878.178,2.306,2.306,0,0,1,.723.489,2.306,2.306,0,0,1,.489.722,2.188,2.188,0,0,1,.178.878,2.188,2.188,0,0,1-.178.878,2.306,2.306,0,0,1-.489.722,2.306,2.306,0,0,1-.723.489,2.188,2.188,0,0,1-.878.178,2.188,2.188,0,0,1-.878-.178,2.306,2.306,0,0,1-.723-.489,2.306,2.306,0,0,1-.489-.722A2.189,2.189,0,0,1,272.865-52.937Z" transform="translate(-272.865 55.204)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="パス_36" data-name="パス 36" d="M282.375-46.319H286.4v1.445a4.405,4.405,0,0,1,1.667-1.345,5.216,5.216,0,0,1,1.978-.345,4.943,4.943,0,0,1,2.056.389,4.1,4.1,0,0,1,1.456,1.1,3.162,3.162,0,0,1,.667,1.289,6.715,6.715,0,0,1,.178,1.623v7.247h-4.024v-5.758a6.2,6.2,0,0,0-.122-1.367,1.693,1.693,0,0,0-.434-.834,1.524,1.524,0,0,0-.6-.378,2.235,2.235,0,0,0-.711-.111,1.989,1.989,0,0,0-1.567.611,2.538,2.538,0,0,0-.545,1.745v6.091h-4.024Z" transform="translate(-282.375 46.564)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="パス_38" data-name="パス 38" d="M310.743-42.668a3.723,3.723,0,0,0-2.112-.711,2.876,2.876,0,0,0-1.078.2,2.672,2.672,0,0,0-.878.567,2.608,2.608,0,0,0-.589.867,2.86,2.86,0,0,0-.211,1.123,2.8,2.8,0,0,0,.211,1.1,2.694,2.694,0,0,0,.578.867,2.527,2.527,0,0,0,.878.567,2.962,2.962,0,0,0,1.089.2,3.327,3.327,0,0,0,2.112-.778v3.423a7.117,7.117,0,0,1-2.823.645,6.667,6.667,0,0,1-2.368-.422,6.009,6.009,0,0,1-1.979-1.212,5.949,5.949,0,0,1-1.367-1.89,5.76,5.76,0,0,1-.511-2.456,6.14,6.14,0,0,1,.489-2.479,5.936,5.936,0,0,1,1.334-1.934,6.036,6.036,0,0,1,2.012-1.267,6.815,6.815,0,0,1,2.5-.456,5.979,5.979,0,0,1,2.712.622Z" transform="translate(-301.695 46.714)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_46" data-name="グループ 46" transform="translate(-46 -54.185)">
+    <g id="グループ_22" data-name="グループ 22" transform="translate(46 54.185)">
+      <path id="パス_28" data-name="パス 28" d="M37.135-54.7h-16.8L15.764-33.7A32.511,32.511,0,0,1,.248-61.6a32.532,32.532,0,0,1,32.7-32.332,32.532,32.532,0,0,1,32.332,32.7A32.532,32.532,0,0,1,32.58-28.9l-1.056-.033Z" transform="translate(-0.247 93.93)" fill="#fff" fill-rule="evenodd"/>
+      <path id="パス_29" data-name="パス 29" d="M44.2-72.419c-3.906-2.287,3.339-4.363,5.184-4.945-10.639-1.265-17.183.993-21.067,5.352a11.1,11.1,0,0,0,.407,15.883A11.24,11.24,0,0,0,44.6-56.536C48.874-61.031,48.992-68.487,44.2-72.419Z" transform="translate(-6.701 89.73)" fill="#00e1ff" fill-rule="evenodd"/>
+      <path id="パス_30" data-name="パス 30" d="M25.76-40.993h16.8L36.947-15.22a32.331,32.331,0,0,1-15.76-4.766Z" transform="translate(-5.67 80.22)" fill-rule="evenodd"/>
+      <g id="グループ_12" data-name="グループ 12" transform="translate(67.53 2.287)">
+        <g id="グループ" transform="translate(0 0)">
+          <text id="IW" transform="translate(0 43)" fill="#fff" font-size="46" font-family="Phosphate-Solid, Phosphate"><tspan x="0" y="0">IW</tspan></text>
+          <text id="AKI" transform="translate(50.624 42)" fill="#fff" font-size="45" font-family="Phosphate-Solid, Phosphate"><tspan x="0" y="0">AKI</tspan></text>
+        </g>
+      </g>
+      <g id="グループ_13" data-name="グループ 13" transform="translate(68.606 47.393)">
+        <g id="グループ-2" data-name="グループ" transform="translate(0 0)">
+          <text id="coding" transform="translate(0 12)" fill="#fff" font-size="13" font-family="Phosphate-Solid, Phosphate"><tspan x="0" y="0">coding</tspan></text>
+          <text id="_" data-name="&amp;" transform="translate(56.821 11)" fill="#fff" font-size="12" font-family="Phosphate-Solid, Phosphate"><tspan x="0" y="0">&amp;</tspan></text>
+          <text id="desing" transform="translate(69.64 12)" fill="#fff" font-size="13" font-family="Phosphate-Solid, Phosphate"><tspan x="0" y="0">desing</tspan></text>
+          <text id="SER" transform="translate(119.881 12)" fill="#fff" font-size="13" font-family="Phosphate-Solid, Phosphate"><tspan x="0" y="0">SER</tspan></text>
+          <text id="VIC" transform="translate(141.726 12)" fill="#fff" font-size="13" font-family="Phosphate-Solid, Phosphate"><tspan x="0" y="0">VIC</tspan></text>
+        </g>
+      </g>
+      <g id="グループ_15" data-name="グループ 15" transform="translate(194.522 42.012)" clip-path="url(#clip-path)">
+        <g id="グループ_14" data-name="グループ 14" transform="matrix(0.322, 0.947, -0.947, 0.322, 83.59, -140.499)">
+          <path id="パス_31" data-name="パス 31" d="M0,293.932,99.907,0l69.588,23.653L69.588,317.585Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="グループ_17" data-name="グループ 17" transform="translate(202.013 28.696)" clip-path="url(#clip-path-2)">
+        <g id="グループ_16" data-name="グループ 16" transform="matrix(0.322, 0.947, -0.947, 0.322, 76.099, -127.183)">
+          <path id="パス_33" data-name="パス 33" d="M0,293.932,99.907,0l69.588,23.653L69.588,317.585Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="グループ_19" data-name="グループ 19" transform="translate(209.06 35.099)" clip-path="url(#clip-path-3)">
+        <g id="グループ_18" data-name="グループ 18" transform="matrix(0.322, 0.947, -0.947, 0.322, 69.052, -133.585)">
+          <path id="パス_35" data-name="パス 35" d="M0,293.932,99.907,0l69.588,23.653L69.588,317.585Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="グループ_21" data-name="グループ 21" transform="translate(223.377 34.988)" clip-path="url(#clip-path-4)">
+        <g id="グループ_20" data-name="グループ 20" transform="matrix(0.322, 0.947, -0.947, 0.322, 54.735, -133.474)">
+          <path id="パス_37" data-name="パス 37" d="M0,293.932,99.907,0l69.588,23.653L69.588,317.585Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="パス_39" data-name="パス 39" d="M102.538-91.23c-1.992-1.166,1.7-2.225,2.644-2.522-5.426-.645-8.763.506-10.744,2.729a5.661,5.661,0,0,0,.207,8.1,5.732,5.732,0,0,0,8.1-.207A5.594,5.594,0,0,0,102.538-91.23Z" transform="translate(-24.226 93.93)" fill="#00e1ff" fill-rule="evenodd"/>
+      <path id="パス_40" data-name="パス 40" d="M251.9-89.966c-1.992-1.166,1.7-2.225,2.644-2.522-5.426-.645-8.763.506-10.743,2.729a5.661,5.661,0,0,0,.207,8.1,5.731,5.731,0,0,0,8.1-.207A5.594,5.594,0,0,0,251.9-89.966Z" transform="translate(-62.909 93.602)" fill="#00e1ff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

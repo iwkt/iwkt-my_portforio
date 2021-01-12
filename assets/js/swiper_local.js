@@ -1,10 +1,11 @@
-let swiper = new Swiper('.hero_slider', {
+let swiper = new Swiper('.swiper-container', {
   // 以下にオプションを設定
   loop: true, //最後に達したら先頭に戻る
   autoHeight: false,
+  speed: 1300,
 
   autoplay: {
-    delay: 3000,
+    delay: 5000,
     stopOnLastSlide: false,
     disableOnInteraction: false,
     reverseDirection: false
@@ -21,19 +22,5 @@ let swiper = new Swiper('.hero_slider', {
   navigation: {
     nextEl: '.swiper-button-next', //「次へボタン」要素の指定
     prevEl: '.swiper-button-prev', //「前へボタン」要素の指定
-  }
-});
-
-let swiper2 = new Swiper('.recruit_slider', {
-  // 以下にオプションを設定
-  loop: false, //最後に達したら先頭に戻る
-  autoHeight: false,
-  slidesPerView: 1.5,
-  spaceBetween: 20,
-  centeredSlides: true,
-  scrollbar: {
-    el: '.swiper-scrollbar',
-    hide: true,
-    draggable: true
   }
 });

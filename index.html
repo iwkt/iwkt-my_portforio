@@ -5,17 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport"content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="./assets/css/vendors/swiper/swiper.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css">
     <link rel="stylesheet" href="./assets/css/reset_style.css">
     <link href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="./assets/css/animate.min.css">
-    <link href="./assets/slick/slick-theme.css" rel="stylesheet" type="text/css">
-    <link href="./assets/slick/slick.css" rel="stylesheet" type="text/css">
+    <!-- <link href="./assets/slick/slick-theme.css" rel="stylesheet" type="text/css"> -->
+    <!-- <link href="./assets/slick/slick.css" rel="stylesheet" type="text/css"> -->
     <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="https://sdk.form.run/js/v2/formrun.js"></script>
     <!-- <script src="./assets/jQuery/jquery.min.js"></script> -->
-    <script src="./assets/slick/slick.min.js"></script>
+    <!-- <script src="./assets/slick/slick.min.js"></script> -->
   </head>
   <body>
     <div id="Head"></div>
@@ -94,7 +95,7 @@
           <div class="about__outer slide_in up grid-center">
             <div class="about__inner col-11 grid">
               <div class="about__me col-6_xs-12">
-                <img src="./assets/images/about_me.svg" alt="">
+                <img src="./assets/images/about_me2.png" alt="">
               </div>
               <div class="about__text col-6-middle_xs-12-center slide_in slider_right">
                 <p class="section__text mb-sm">岩城 隆宏 (いわき たかひろ) <br>
@@ -155,6 +156,29 @@
         <section id="Works" class="works section slide_in up">
           <div class="container">
             <h2 class="section__ttl"><span>works.</span></h2>
+
+            <!-- スライダーのメインコンテナの div 要素 -->
+            <div class="swiper-container"> 
+              <!-- ラッパーの（スライドを囲む） div 要素 -->
+              <div class="swiper-wrapper"> 
+                <!-- それぞれのスライドの div 要素 -->
+                <div class="swiper-slide">
+                  <p class="swp-ttl" >お菓子屋さん（架空店舗）</p>
+                  <img src="assets/images/macbook-moul.png" alt=""></div>
+                <div class="swiper-slide">
+                  <p class="swp-ttl">あるボランティア団体（架空団体）</p>
+                  <img src="assets/images/macbook-mock-volunteer.png" alt=""></div>
+              </div>
+              <!-- ページネーションの div 要素 -->
+              <div class="swiper-pagination"></div>
+            
+              <!-- ナビゲーションボタンの div 要素-->
+              <div class="swiper-button-prev"></div>
+              <div class="swiper-button-next"></div>
+            
+              <!-- スクロールバーの div 要素 -->
+              <div class="swiper-scrollbar"></div>
+            </div> <!--swiper-->
           </div>
         </section>
         <section id="Skill" class="section skill slide_in up">
@@ -245,6 +269,8 @@
     <script src="./assets/js/toggle.js"></script>
     <script src="./assets/js/fadeIn.js"></script>
     <script src="./assets/js/scroll_my.js"></script>
+    <script src="./assets/js/swiper.js"></script>
+    <script src="./assets/js/swiper_local.js"></script>
     <script src="./assets/js/jq/smooth_scrl.js"></script>
     <!-- <script src="./assets/js/main.js"></script> -->
   </body>

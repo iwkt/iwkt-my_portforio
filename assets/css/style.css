@@ -564,7 +564,9 @@ ul {
 }
 
 .about__me > img {
-  max-width: 40vw;
+  max-width: 150px;
+  object-fit: contain;
+
 }
 
 .about__text {
@@ -822,6 +824,11 @@ ul {
 .service__ul {
   padding: 0 15px;
   margin-bottom: 50px;
+}
+
+.swp-ttl {
+  margin-bottom: 30px;
+  font-weight: 700;
 }
 
 .top__ttl {

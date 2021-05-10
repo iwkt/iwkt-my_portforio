@@ -851,6 +851,19 @@ ul {
   opacity: 1;
 }
 
+.works__sites {
+  margin-bottom: 100px;
+}
+
+.works__sites .fas {
+  margin-left: 10px;
+}
+
+.works__name {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
 @media (min-width: 600px) {
   .about {
     padding-top: 60vw;

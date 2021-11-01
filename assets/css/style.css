@@ -192,6 +192,10 @@
           transform-origin: left;
 }
 
+.p-works__item {
+  margin-bottom: 20px;
+}
+
 .slide_in.up {
   opacity: 0;
   visibility: hidden;
